@@ -3,6 +3,10 @@ This is an educational project on the topic "Investigation of news activity in t
 
 Это учебный проект на тему "Исследование новостной активности в сфере информационных технологий с применением машинного обучения на примере российского интернет-СМИ"
 
+Код доступен в COLAB
+Часть 1 – Парсинг https://colab.research.google.com/drive/1y9KCn5xadCZGnLTvg1jp3QxOQjmSlU7s
+Часть 2 – Основная часть https://colab.research.google.com/drive/1j0vTdoEz5TnDgD6PHFVsLSziwNroO7UD
+
 ## Задача
 Проследить, как менялось количество новостей на разные темы, опубликованных на отраслевом ИТ-портале Comnews.ru с января 2022 г. по июнь 2025 года.
 
